@@ -9,3 +9,4 @@ int main()
   res=a+b;
   cout<<"Addition is: "<<res;
 }
+cout<<"can perform different operations...";
